@@ -92,25 +92,25 @@ Email: admin2023@gmail.com
 Pass: 1234
 
 <br>
-<img src="./demo/ss1.jpg" alt=""/>
+<img src="./demo/ss1.JPG" alt=""/>
 <br>
-<img src="./demo/ss3.jpg" alt=""/>
+<img src="./demo/ss3.JPG" alt=""/>
 <br>
-<img src="./demo/ss4.jpg" alt=""/>
+<img src="./demo/ss4.JPG" alt=""/>
 <br>
-<img src="./demo/ss5.jpg" alt=""/>
+<img src="./demo/ss5.JPG" alt=""/>
 <br>
-<img src="./demo/ss6.jpg" alt=""/>
+<img src="./demo/ss6.JPG" alt=""/>
 <br>
-<img src="./demo/ss7.jpg" alt=""/>
+<img src="./demo/ss7.JPG" alt=""/>
 <br>
-<img src="./demo/ss8.jpg" alt=""/>
+<img src="./demo/ss8.JPG" alt=""/>
 <br>
-<img src="./demo/ss9.jpg" alt=""/>
+<img src="./demo/ss9.JPG" alt=""/>
 <br>
-<img src="./demo/ss10.jpg" alt=""/>
+<img src="./demo/ss10.JPG" alt=""/>
 <br>
-<img src="./demo/ss11.jpg" alt=""/>
+<img src="./demo/ss11.JPG" alt=""/>
 <br>
-<img src="./demo/ss12.jpg" alt=""/>
+<img src="./demo/ss12.JPG" alt=""/>
 <br>
